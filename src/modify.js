@@ -1,3 +1,4 @@
+/** FEEDBACK: Great job getting all test cases to pass! You are killing it!!!! */
 const getMainHeadingText = () => {
   console.log(document.querySelector("h1#main-heading").textContent)
 };

@@ -1,3 +1,6 @@
+/** FEEDBACK: Great job using a function! Could we have made this function DRYer? 
+ * Also we are missing our runner function here so make sure to include it in the future!
+ */
 const elementAdder = () => {
   const h1Adder = document.createElement('h1')
   h1Adder.id = 'main-heading'
